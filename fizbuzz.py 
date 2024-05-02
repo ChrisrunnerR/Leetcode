@@ -1,0 +1,13 @@
+
+
+
+def fizbuzz(n : int ) -> List[str]:
+ 
+
+
+
+
+
+
+print(fizbuzz(5))
+
